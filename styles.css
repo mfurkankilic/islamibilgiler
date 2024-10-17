@@ -1,0 +1,6 @@
+.bg-image {
+    background-image: url("resim.png"); /* Arka plan resmi */
+    background-size: cover; /* Resmin boyutunu kapsar */
+    background-position: center; /* Resmin ortalanmasını sağlar */
+    height: 50vh; /* Ekranın yarısını kaplar */
+}
